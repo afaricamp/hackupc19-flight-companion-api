@@ -2,6 +2,8 @@
 
 API for collect, process all necessary data for Flight Companion Game.
 
+You can check the game repo -> https://github.com/ArnauAguilarEmanuel/HackUPV2019
+
 ## ENDPOINTS
 
 ### Login
